@@ -1,4 +1,4 @@
-# Repositorio del curso – Nombre Apellidos
+# Repositorio del curso – Xinyuan Li
 
 > Repositorio principal con **todas las prácticas, actividades y proyectos** del curso.  
 > Para proyectos grandes alojados en repositorios separados, ver la sección [Proyectos](#proyectos).
