@@ -1,0 +1,11 @@
+# Entorno virtual
+venv/
+.env
+
+# Configuración de VSCode
+.vscode/
+*.code-workspace
+
+# Archivos de compilación
+__pycache__/
+*.pyc
