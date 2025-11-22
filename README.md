@@ -1,20 +1,24 @@
 # Repositorio del curso – Xinyuan Li
 
-> Repositorio principal con **todas las prácticas, actividades y proyectos** del curso.  
-> Para proyectos grandes alojados en repositorios separados, ver la sección [Proyectos](#proyectos).
+> Este repositorio se utiliza para almacenar todas las tareas y proyectos del curso 
+> Proyecto Website()
 
 ## Índice
-- [01 – Introducción](./01-introduccion/README.md)
-- [02 – Tarea de T1](https://github.com/lxin0704-12138/lxin-Asir2/commit/95ac44a28956d86cebd978dc5440309572daea3c)
-- [Proyectos](./proyectos/README.md)
-- …
+- [Tarea de T1](https://github.com/lxin0704-12138/lxin-Asir2/commit/95ac44a28956d86cebd978dc5440309572daea3c)
+- [Prueba competecial 2T](https://github.com/lxin0704-12138/starfleet-prueba-competencial-LiXinyuan)
+- ...
 
 ## Entorno
-- SO: …
-- Versiones: Node … / Python … / Java …
-- Dependencias clave: …
+- Máquina virtual（Client/Server）
+- Base de datos (MySQL，MariaDB...)
+- Java Script
+- HTML
+- JSON
+- Python
 
 ## Cómo ejecutar (si aplica)
-```bash
-# comandos para ejecutar/pruebas
-# lxin-Asir2
+
+# Linux
+- 
+# Windows
+- 
