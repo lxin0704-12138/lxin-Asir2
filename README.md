@@ -5,7 +5,7 @@
 
 ## Índice
 - [01 – Introducción](./01-introduccion/README.md)
-- [02 – Práctica X](./02-practica-X/README.md)
+- [02 – Tarea de T1](https://github.com/lxin0704-12138/lxin-Asir2/commit/95ac44a28956d86cebd978dc5440309572daea3c)
 - [Proyectos](./proyectos/README.md)
 - …
 
