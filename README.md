@@ -14,7 +14,12 @@
 - HTML
 - JSON
 - Python
+- PHP
 - Visual Studio Code
+- Raspberry Pi
+- ScriptNMAP
+- Docker
+- GitHub
 
 ## Cómo ejecutar (si aplica)
 
