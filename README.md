@@ -21,7 +21,7 @@
 - Docker
 - GitHub
 
-## Cómo ejecutar (si aplica)
+## Cómo ejecutar
 
 ### Linux
 - git clone https://github.com/lxin0704-12138/lxin-Asir2.git
