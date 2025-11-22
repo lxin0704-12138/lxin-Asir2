@@ -19,6 +19,10 @@
 ## Cómo ejecutar (si aplica)
 
 # Linux
-- 
+- git clone https://github.com/lxin0704-12138/lxin-Asir2.git
+- cd lxin-Asir2
+- ls
+# Descargar el contenido más reciente
+- git pull origin main
 # Windows
 - 
