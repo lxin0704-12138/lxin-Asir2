@@ -14,6 +14,7 @@
 - HTML
 - JSON
 - Python
+- Visual Studio Code
 
 ## Cómo ejecutar (si aplica)
 
