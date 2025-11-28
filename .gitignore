@@ -9,3 +9,5 @@ venv/
 # Archivos de compilación
 __pycache__/
 *.pyc
+
+# Ignorar archivos
