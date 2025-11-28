@@ -4,7 +4,7 @@
 
 ## Índice
 - [Tarea de T1](https://github.com/lxin0704-12138/lxin-Asir2/commit/95ac44a28956d86cebd978dc5440309572daea3c)
-- [Prueba competecial 2T](https://github.com/lxin0704-12138/starfleet-prueba-competencial-LiXinyuan)
+- [Prueba competecial](https://github.com/lxin0704-12138/starfleet-prueba-competencial-LiXinyuan)
 - ...
 
 ## Entorno
