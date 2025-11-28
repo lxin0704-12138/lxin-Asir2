@@ -1,20 +1,37 @@
-# Repositorio del curso – Xinyuan Li
+# Tareas de T1
 
-> Repositorio principal con **todas las prácticas, actividades y proyectos** del curso.  
-> Para proyectos grandes alojados en repositorios separados, ver la sección [Proyectos](#proyectos).
+> Aquí están todas las tareas de T1
 
 ## Índice
-- [01 – Introducción](./01-introduccion/README.md)
-- [02 – Práctica X](./02-practica-X/README.md)
-- [Proyectos](./proyectos/README.md)
-- …
+- [Inicio](https://github.com/lxin0704-12138/lxin-Asir2)
+- [Prueba competecial 2T](https://github.com/lxin0704-12138/starfleet-prueba-competencial-LiXinyuan)
+- ...
 
 ## Entorno
-- SO: …
-- Versiones: Node … / Python … / Java …
-- Dependencias clave: …
+- Máquina virtual（Client/Server）
+- Base de datos (MySQL，MariaDB...)
+- Java Script
+- HTML
+- JSON
+- Python
+- PHP
+- Visual Studio Code
+- Raspberry Pi
+- ScriptNMAP
+- Docker
+- GitHub
 
-## Cómo ejecutar (si aplica)
-```bash
-# comandos para ejecutar/pruebas
-# lxin-Asir2
+## Cómo ejecutar
+
+### Linux
+- git clone https://github.com/lxin0704-12138/lxin-Asir2.git
+- cd lxin-Asir2
+- ls
+
+### Windows
+- git clone https://github.com/lxin0704-12138/lxin-Asir2.git
+- cd lxin-Asir2
+- dir
+
+### Descargar el contenido más reciente
+- git pull origin main
