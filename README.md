@@ -20,6 +20,7 @@
 - ScriptNMAP
 - Docker
 - GitHub
+- Hosting
 
 ## Cómo ejecutar
 
