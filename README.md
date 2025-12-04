@@ -22,6 +22,7 @@
 - Docker
 - GitHub
 - Hosting
+- Remote
 
 ## Cómo ejecutar
 
