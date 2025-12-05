@@ -4,4 +4,4 @@ suma_total = 0
 for num in numeros:
     suma_total += num
 
-print(f"La suma de los elementos es: {suma_total}")
+print(f"La suma total: {suma_total}")

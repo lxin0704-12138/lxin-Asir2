@@ -4,4 +4,8 @@ suma_precios = 0
 for precio in productos.values():
     suma_precios += precio
 
-print(f"Suma total de precios: {suma_precios:.2f}€")
+for producto, precio in productos.items():
+    
+    print(f"Producto: {producto}, Precio: {precio}€")
+    
+print(f"Precio total: {suma_precios:.2f}€")

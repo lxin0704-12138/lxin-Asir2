@@ -5,4 +5,4 @@ for num in numeros:
     if num % 2 == 0:
         numeros_pares.append(num)
 
-print(f"Números pares: {numeros_pares}")
+print(f"Numeros pares: {numeros_pares}")
