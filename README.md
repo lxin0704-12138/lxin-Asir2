@@ -30,6 +30,7 @@
 - MongoDB
 - Tor Browser
 - WordPress
+- SonarQube
 
 ## Cómo ejecutar
 
