@@ -27,6 +27,8 @@
 - GitHub
 - Hosting
 - Remote
+- MongoDB
+- Tor Browser
 
 ## Cómo ejecutar
 
