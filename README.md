@@ -29,6 +29,7 @@
 - Remote
 - MongoDB
 - Tor Browser
+- WordPress
 
 ## Cómo ejecutar
 
