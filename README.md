@@ -5,6 +5,7 @@
 ## Índice
 - [Tarea de T1](https://github.com/lxin0704-12138/lxin-Asir2/tree/main/Tarea_T1)
 - [Tarea de T2](https://github.com/lxin0704-12138/lxin-Asir2/tree/main/Tarea_T2)
+- ### [CIBERSEGURIDAD](https://github.com/lxin0704-12138/lxin-Asir2/tree/main/Tarea_T2/CIBERSEGURIDAD)
 - [Prueba competecial](https://github.com/lxin0704-12138/starfleet-prueba-competencial-LiXinyuan)
 - ...
 
