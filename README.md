@@ -1,4 +1,4 @@
-# Repositorio del curso – Xinyuan Li
+# Repositorio del curso ASIR 2 – Xinyuan Li
 
 > Este repositorio se utiliza para almacenar todas las tareas y proyectos del curso
 
